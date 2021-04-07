@@ -6,7 +6,7 @@
     <div class="mt-8 md:mt-16 flex flex-wrap items-center justify-center">
       <div>
         <h1 class="font-maintitle text-5xl sm:text-7xl block text-center sm:pr-8 text-gray-700">
-          {{ $static.metadata.siteName }}
+          mc.langrock.info
         </h1>
       </div>
     </div>
@@ -38,7 +38,7 @@
     </ul>
 
     <br />
-    <p>Not following the rules will result in ban, probably forever.</p>
+    <p>Not following the rules will result in a ban, probably forever.</p>
 
     <h3>The World</h3>
 
@@ -51,7 +51,7 @@
     <br />
     <p>
       Click <a href="https://storage.langrock.info/fileshare/2021-04-06/world.png">here</a> to view the full world <i>(as of 6th of April 2021)</i>.<br />
-      Renders are also available for <a href="https://storage.langrock.info/fileshare/2021-04-06/world_nether.png">the Nether</a> and <a href="https://storage.langrock.info/fileshare/2021-04-06/world_the_end.png">the End</a>.
+      Also available: <a href="https://storage.langrock.info/fileshare/2021-04-06/world_nether.png">the Nether</a> and <a href="https://storage.langrock.info/fileshare/2021-04-06/world_the_end.png">the End</a>, tho they are less interesting.
     </p>
 
     <p>World download (2021-04-06): <a href="https://storage.langrock.info/fileshare/2021-04-06/minecraft.tar.xz">minecraft.tar.xz</a></p>

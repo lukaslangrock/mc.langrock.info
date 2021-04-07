@@ -14,34 +14,23 @@ export default function(Vue, { router, head, isClient }) {
   // Styles
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Rokkitt:wght@300|Libre+Baskerville&display=swap',
+    href: 'https://fonts.googleapis.com/css?family=Philosopher|Libre+Baskerville&display=swap',
   })
 
   // Basic meta tags
   head.meta.push({
     name: 'author',
-    content: 'Ville Säävuori',
+    content: 'Lukas Langrock / Ville Säävuori',
   })
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS',
+    content: 'minecraft,langrock,vue,gridsome',
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Single page starter template for Gridsome.',
-  })
-
-  // Open Graph + Twitter meta tags
-  head.meta.push({
-    property: 'og:description',
-    content: 'Single page starter template for Gridsome.',
-  })
-
-  head.meta.push({
-    name: 'twitter:description',
-    content: 'Single page starter template for Gridsome.',
+    content: 'mc.langrock.info - A Minecraft Server',
   })
 
   head.meta.push({
@@ -51,31 +40,6 @@ export default function(Vue, { router, head, isClient }) {
 
   head.meta.push({
     property: 'og:title',
-    content: 'Tulip - Single Page Gridsome Starter',
-  })
-
-  head.meta.push({
-    name: 'twitter:title',
-    content: 'Tulip - Single Page Gridsome Starter',
-  })
-
-  head.meta.push({
-    name: 'twitter:card',
-    content: 'summary_large_image',
-  })
-
-  head.meta.push({
-    name: 'twitter:creator',
-    content: '@uninen',
-  })
-
-  head.meta.push({
-    property: 'og:image',
-    content: ' https://gridsome-starter-tulip.netlify.com/img/social-preview.png',
-  })
-
-  head.meta.push({
-    name: 'twitter:image',
-    content: 'https://gridsome-starter-tulip.netlify.com/img/social-preview.png',
+    content: 'mc.langrock.info - A Minecraft Server',
   })
 }
