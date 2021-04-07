@@ -26,7 +26,8 @@
     <p>We'll be on whatever is the current version of PaperMC. For more info click <a href="https://mcsrvstat.us/server/mc.langrock.info">here</a>.</p>
     <p>If you can't join the server might be down. You can chek that using either the link above or my <a href="https://status.langrock.info/785062643">Uptime Monitor.</a></p>
 
-    <strong>See you there!</strong>
+    <strong>See you there!</strong><br />
+    <small>Or explore the <g-link to="/gallery/">Image Gallery</g-link></small>.
 
     <h3>Rules</h3>
 
