@@ -9,7 +9,6 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.2",
     "gridsome": "^0.7.23",
     "gridsome-plugin-tailwindcss": "^3.0.1"
   },
