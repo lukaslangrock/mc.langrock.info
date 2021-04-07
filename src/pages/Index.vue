@@ -17,6 +17,7 @@
       class="block"
       alt="Screenshot of the server's spawn"
       src="~/assets/img/banner.webp"
+      quality="100"
     />
 
     <h3>Joining the server</h3>
@@ -46,6 +47,7 @@
       class="block"
       alt="Topdown view of the spawn region"
       src="~/assets/img/world.webp"
+      quality="100"
     />
 
     <br />
