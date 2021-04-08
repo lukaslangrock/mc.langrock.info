@@ -77,7 +77,7 @@
     </ul>
 
     <br />
-    <p>Oh and this website is hosted on Hetzenr Cloud in Germany, the langrock.info <a href="https://langrock.info/privacy">Privacy Policy</a> applies.</p>
+    <p>Oh and this website is hosted on Hetzner Cloud in Germany, the langrock.info <a href="https://langrock.info/privacy">Privacy Policy</a> applies.</p>
 
     <p class="text-center mt-16 mb-8 text-xs">
       Thanks to Ville Säävuori for making this great template ❤️ <br />
