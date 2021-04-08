@@ -15,7 +15,8 @@
 
     <video autoplay loop>
       <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.webm" type='video/webm; codecs="vp9"' />
-      <img src="https://storage.langrock.info/assets/mc.langrock.info/hero.webp" alt="Hero banner (hero video unsupported)">
+      <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.mp4" type="video/mp4" />
+      <img src="https://storage.langrock.info/assets/mc.langrock.info/hero.webp" alt="Hero banner (hero video unsupported)" />
     </video>
 
 
