@@ -13,7 +13,7 @@
 
     <h2>Welcome to my server ❤️</h2>
 
-    <video autoplay loop>
+    <video autoplay loop poster="https://storage.langrock.info/assets/mc.langrock.info/hero.webp">
       <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.webm" type='video/webm; codecs="vp9"' />
       <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.mp4" type="video/mp4" />
       <img src="https://storage.langrock.info/assets/mc.langrock.info/hero.webp" alt="Hero banner (hero video unsupported)" />
