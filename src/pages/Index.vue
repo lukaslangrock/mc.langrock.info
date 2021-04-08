@@ -59,7 +59,7 @@
 
     <p>Complete server download (2021-04-06): <a href="https://storage.langrock.info/fileshare/2021-04-06/minecraft.tar.xz">minecraft.tar.xz</a></p>
     
-    <p>Overworld download (updated each hour): <a href="https://mc.langrock.info/download/world-download.tar</a>world-download.tar</p>
+    <p>Overworld download (updated each hour): <a href="https://mc.langrock.info/download/world-download.tar">world-download.tar</a></p>
 
     <p>The seed is <code>5362256963815911759</code>.</p>
 
