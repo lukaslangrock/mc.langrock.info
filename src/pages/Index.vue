@@ -13,12 +13,11 @@
 
     <h2>Welcome to my server ❤️</h2>
 
-    <g-image
-      class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/banner.webp"
-      quality="100"
-    />
+    <video autoplay loop>
+      <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.webm" type='video/webm; codecs="vp9"' />
+      <img src="https://storage.langrock.info/assets/mc.langrock.info/hero.webp" alt="Hero banner (hero video unsupported)">
+    </video>
+
 
     <h3>Joining the server</h3>
 

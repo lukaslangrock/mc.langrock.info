@@ -18,7 +18,7 @@
     <g-image
       class="block"
       alt="Screenshot of the server's spawn"
-      src="~/assets/img/banner.webp"
+      src="~/assets/img/banner1.webp"
       quality="100"
     /><br />
 
@@ -32,7 +32,7 @@
     <g-image
       class="block"
       alt="Screenshot of the server's spawn"
-      src="~/assets/img/portal.webp"
+      src="~/assets/img/banner3.webp"
       quality="100"
     />
 
