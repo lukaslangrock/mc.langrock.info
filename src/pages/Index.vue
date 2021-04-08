@@ -57,7 +57,9 @@
       Also available: <a href="https://storage.langrock.info/fileshare/2021-04-06/world_nether.png">the Nether</a> and <a href="https://storage.langrock.info/fileshare/2021-04-06/world_the_end.png">the End</a>, tho they are less interesting.
     </p>
 
-    <p>World download (2021-04-06): <a href="https://storage.langrock.info/fileshare/2021-04-06/minecraft.tar.xz">minecraft.tar.xz</a></p>
+    <p>Complete server download (2021-04-06): <a href="https://storage.langrock.info/fileshare/2021-04-06/minecraft.tar.xz">minecraft.tar.xz</a></p>
+    
+    <p>Overworld download (updated each hour): <a href="https://mc.langrock.info/download/world-download.tar</a>world-download.tar</p>
 
     <p>The seed is <code>5362256963815911759</code>.</p>
 
