@@ -13,10 +13,10 @@
 
     <h2>Welcome to my server ❤️</h2>
 
-    <video autoplay loop poster="https://storage.langrock.info/assets/mc.langrock.info/hero.webp">
-      <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.webm" type='video/webm; codecs="vp9"' />
-      <source src="https://storage.langrock.info/assets/mc.langrock.info/hero.mp4" type="video/mp4" />
-      <img src="https://storage.langrock.info/assets/mc.langrock.info/hero.webp" alt="Hero banner (hero video unsupported)" />
+    <video autoplay loop poster="https://mc.langrock.info/files/assets/hero.webp">
+      <source src="https://mc.langrock.info/files/assets/hero.webm" type='video/webm; codecs="vp9"' />
+      <source src="https://mc.langrock.info/files/assets/hero.mp4" type="video/mp4" />
+      <img src="https://mc.langrock.info/files/assets/hero.webp" alt="Hero banner (hero video unsupported)" />
     </video>
 
 
@@ -27,7 +27,7 @@
     <p>If you can't join the server might be down. You can chek that using either the link above or my <a href="https://status.langrock.info/785062643">Uptime Monitor.</a></p>
 
     <strong>See you there!</strong><br />
-    <small>Or explore the <g-link to="/gallery/">Image Gallery</g-link></small>.
+    <p>Or explore the <g-link to="/gallery/">Image Gallery</g-link></p>
 
     <h3>Rules</h3>
 
@@ -53,13 +53,12 @@
 
     <br />
     <p>
-      Click <a href="https://storage.langrock.info/fileshare/2021-04-06/world.png">here</a> to view the full world <i>(as of 6th of April 2021)</i>.<br />
-      Also available: <a href="https://storage.langrock.info/fileshare/2021-04-06/world_nether.png">the Nether</a> and <a href="https://storage.langrock.info/fileshare/2021-04-06/world_the_end.png">the End</a>, tho they are less interesting.
+      Server map graphics (2021-04-14): <a href="https://mc.langrock.info/files/2021-04-14/world.png">overworld</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_nether.png">nether</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_the_end.png">end</a>
     </p>
 
-    <p>Complete server download (2021-04-06): <a href="https://storage.langrock.info/fileshare/2021-04-06/minecraft.tar.xz">minecraft.tar.xz</a></p>
+    <p>Complete server download (2021-04-14): <a href="https://mc.langrock.info/files/2021-04-14/minecraft.tar.xz">server-download.tar.xz</a></p>
     
-    <p>Overworld download (updated each hour): <a href="https://mc.langrock.info/download/world-download.tar">world-download.tar</a></p>
+    <p>Overworld download (updated each day): <a href="https://mc.langrock.info/files/nightly/world-download.tar">world-download.tar</a></p>
 
     <p>The seed is <code>5362256963815911759</code>.</p>
 
