@@ -52,13 +52,11 @@
     />
 
     <br />
-    <p>
-      Server map graphics (2021-04-14): <a href="https://mc.langrock.info/files/2021-04-14/world.png">overworld</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_nether.png">nether</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_the_end.png">end</a>
-    </p>
+    <p>Live map: <a href="https://mc.langrock.info/map/">mc.langrock.info/map</a></p>
 
-    <p>Complete server download (2021-04-14): <a href="https://mc.langrock.info/files/2021-04-14/minecraft.tar.xz">server-download.tar.xz</a></p>
+    <p>Server map graphics (2021-04-14): <a href="https://mc.langrock.info/files/2021-04-14/world.png">overworld</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_nether.png">nether</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_the_end.png">end</a></p>
     
-    <p>Overworld download (updated each day): <a href="https://mc.langrock.info/files/nightly/world-download.tar">world-download.tar</a></p>
+    <p>World download (updated each day): <a href="https://mc.langrock.info/files/nightly/world-download.tar">world-download.tar</a></p>
 
     <p>The seed is <code>5362256963815911759</code>.</p>
 
