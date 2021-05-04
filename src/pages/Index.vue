@@ -52,7 +52,7 @@
     />
 
     <br />
-    <p>Live map: <a href="https://mc.langrock.info/map/">mc.langrock.info/map</a></p>
+    <p>Live map: <a href="https://mc.langrock.info/map/?worldname=world&mapname=surface">mc.langrock.info/map</a></p>
 
     <p>Server map graphics (2021-04-14): <a href="https://mc.langrock.info/files/2021-04-14/world.png">overworld</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_nether.png">nether</a> - <a href="https://mc.langrock.info/files/2021-04-14/world_the_end.png">end</a></p>
     
@@ -70,11 +70,10 @@
       <li>Your username and IP will appear in the server logs when you visit the server.</li>
       <li>Your builds and all the stuff you do on the server will also stay there until they either get destroyed or modified by other players.</li>
       <li>There is no system for purging any information from the logs or the world but if you want to get something removed just hit me up.</li>
-      <li>Server location in Germany</li>
     </ul>
 
     <br />
-    <p>Oh and this website is hosted on Hetzner Cloud in Germany, the langrock.info <a href="https://langrock.info/privacy">Privacy Policy</a> applies.</p>
+    <p>This website and server is hosted on Hetzner Cloud in Germany, the langrock.info <a href="https://langrock.info/privacy">Privacy Policy</a> applies.</p>
 
     <p class="text-center mt-16 mb-8 text-xs">
       Thanks to Ville Säävuori for making this great template ❤️ <br />
