@@ -24,7 +24,7 @@
 
     <p>Simply join the server using the IP <code>mc.langrock.info</code>.</p>
     <p>We'll be on whatever is the current version of PaperMC. For more info click <a href="https://mcsrvstat.us/server/mc.langrock.info">here</a>.</p>
-    <p>If you can't join the server might be down. You can chek the uptime <a href="https://hetrixtools.com/report/uptime/a73f9ccab037b1b8f2a8f59d4724835a/">here</a></p>.
+    <p>If you can't join the server might be down. You can chek the uptime <a href="https://hetrixtools.com/report/uptime/a73f9ccab037b1b8f2a8f59d4724835a/">here</a>.</p>
 
     <strong>See you there!</strong><br />
     <p>Or explore the <g-link to="/gallery/">Image Gallery</g-link></p>
