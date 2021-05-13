@@ -26,8 +26,23 @@
     <p>We'll be on whatever is the current version of PaperMC. For more info click <a href="https://mcsrvstat.us/server/mc.langrock.info">here</a>.</p>
     <p>If you can't join the server might be down. You can chek the uptime <a href="https://hetrixtools.com/report/uptime/a73f9ccab037b1b8f2a8f59d4724835a/">here</a>.</p>
 
-    <strong>See you there!</strong><br />
-    <p>Or explore the <g-link to="/gallery/">Image Gallery</g-link></p>
+    <strong>See you there!</strong>
+
+    <h3>Explore</h3>
+    <i>Take a look before you join?</i> Sure.
+    
+    <div class="mt-2">
+      <a href="https://mc.langrock.info/map/#world;surface" class="mr-2">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          Online Live Map
+        </button>
+      </a>
+      <g-link to="/gallery/">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          Image Gallery
+        </button>
+      </g-link>
+    </div>
 
     <h3>Rules</h3>
 
@@ -51,14 +66,49 @@
       quality="100"
     />
 
-    <br />
-    <p>Live map: <a href="https://mc.langrock.info/map/?worldname=world&mapname=surface">mc.langrock.info/map</a></p>
+    <br /><p>The seed is <code>5362256963815911759</code>.</p>
 
-    <p>Server map graphics (2021-05-13): <a href="https://mc.langrock.info/files/2021-05-13/world.png">overworld</a> - <a href="https://mc.langrock.info/files/2021-05-13/world_nether.png">nether</a> - <a href="https://mc.langrock.info/files/2021-05-13/world_the_end.png">end</a></p>
+    <h3>Renders</h3>
+    <p>Renders created on 2021-05-13</p>
+
+    <div class="mb-4">
+      <a href="https://mc.langrock.info/files/2021-05-13/world.png" class="mr-2">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          Overwold
+        </button>
+      </a>
+      <a href="https://mc.langrock.info/files/2021-05-13/world_nether.png" class="mr-2">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          Nether
+        </button>
+      </a>
+      <a href="https://mc.langrock.info/files/2021-05-13/world_the_end.png">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          The End
+        </button>
+      </a>
+    </div>
+
+    <p>More options:</p>
+    <div>
+      <a href="https://mc.langrock.info/files/nightly/world-download.tar" class="mr-2">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          World Download (nightly)
+        </button>
+      </a>
+      <a href="https://mc.langrock.info/map/#world;surface" class="mr-2">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          Dynmap
+        </button>
+      </a>
+      <a href="https://mc.langrock.info/files/">
+        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
+          Other files
+        </button>
+      </a>
+    </div>
+
     
-    <p>World download (updated each day): <a href="https://mc.langrock.info/files/nightly/world-download.tar">world-download.tar</a></p>
-
-    <p>The seed is <code>5362256963815911759</code>.</p>
 
     <h3>Privacy</h3>
 
