@@ -69,20 +69,20 @@
     <br /><p>The seed is <code>5362256963815911759</code>.</p>
 
     <h3>Renders</h3>
-    <p>Renders created on 2021-05-13</p>
+    <p>Renders created on 2021-09-23</p>
 
     <div class="mb-4">
-      <a href="https://mc.langrock.info/files/2021-05-13/world.png" class="mr-2">
+      <a href="https://mc.langrock.info/files/renders/2021-09-23/world.png" class="mr-2">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
           Overwold
         </button>
       </a>
-      <a href="https://mc.langrock.info/files/2021-05-13/world_nether.png" class="mr-2">
+      <a href="https://mc.langrock.info/files/renders/2021-09-23/world_nether.png" class="mr-2">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
           Nether
         </button>
       </a>
-      <a href="https://mc.langrock.info/files/2021-05-13/world_the_end.png">
+      <a href="https://mc.langrock.info/files/renders/2021-09-23/world_the_end.png">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
           The End
         </button>
