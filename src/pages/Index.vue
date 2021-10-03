@@ -101,9 +101,9 @@
           Dynmap
         </button>
       </a>
-      <a href="https://mc.langrock.info/files/">
+      <a href="https://discord.gg/btKwpUkDYx">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
-          Other files
+          Discord
         </button>
       </a>
     </div>
@@ -123,7 +123,7 @@
     </ul>
 
     <br />
-    <p>This website and server is hosted on Hetzner Cloud in Germany, the langrock.info <a href="https://langrock.info/privacy">Privacy Policy</a> applies.</p>
+    <p>This website and server is hosted with Contabo in Germany, the langrock.info <a href="https://langrock.info/privacy">privacy policy</a> applies.</p>
 
     <p class="text-center mt-16 mb-8 text-xs">
       Thanks to Ville Säävuori for making this great template ❤️ <br />
