@@ -13,10 +13,10 @@
 
     <h2>Welcome to my server ❤️</h2>
 
-    <video autoplay loop poster="https://mc.langrock.info/files/assets/hero.webp">
-      <source src="https://mc.langrock.info/files/assets/hero.webm" type='video/webm; codecs="vp9"' />
-      <source src="https://mc.langrock.info/files/assets/hero.mp4" type="video/mp4" />
-      <img src="https://mc.langrock.info/files/assets/hero.webp" alt="Hero banner (hero video unsupported)" />
+    <video autoplay loop poster="/files/assets/hero.webp">
+      <source src="/files/assets/hero.webm" type='video/webm; codecs="vp9"' />
+      <source src="/files/assets/hero.mp4" type="video/mp4" />
+      <img src="/files/assets/hero.webp" alt="Hero banner (hero video unsupported)" />
     </video>
 
 
