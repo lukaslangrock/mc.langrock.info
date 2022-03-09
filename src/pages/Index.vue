@@ -32,7 +32,7 @@
     <i>Take a look before you join?</i> Sure.
     
     <div class="mt-2">
-      <a href="https://mc.langrock.info/map/#world;surface" class="mr-2">
+      <a href="/map/#world;surface" class="mr-2">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
           Online Live Map
         </button>
@@ -68,35 +68,14 @@
 
     <br /><p>The seed is <code>5362256963815911759</code>.</p>
 
-    <h3>Renders</h3>
-    <p>Renders created on 2021-09-23</p>
-
-    <div class="mb-4">
-      <a href="https://mc.langrock.info/files/renders/2021-09-23/world.png" class="mr-2">
-        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
-          Overwold
-        </button>
-      </a>
-      <a href="https://mc.langrock.info/files/renders/2021-09-23/world_nether.png" class="mr-2">
-        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
-          Nether
-        </button>
-      </a>
-      <a href="https://mc.langrock.info/files/renders/2021-09-23/world_the_end.png">
-        <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
-          The End
-        </button>
-      </a>
-    </div>
-
     <p>More options:</p>
     <div>
-      <a href="https://mc.langrock.info/files/nightly/world-download.tar" class="mr-2">
+      <a href="/files/nightly/world-download.tar" class="mr-2">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
           World Download (nightly)
         </button>
       </a>
-      <a href="https://mc.langrock.info/map/#world;surface" class="mr-2">
+      <a href="/map/#world;surface" class="mr-2">
         <button class="bg-white hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 hover:text-black py-2 px-4 border border-gray-400 hover:border-green-400 rounded shadow">
           Dynmap
         </button>
