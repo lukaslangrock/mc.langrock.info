@@ -102,7 +102,7 @@
     </ul>
 
     <br />
-    <p>This website and server is hosted with Contabo in Germany, the langrock.info <a href="https://langrock.info/privacy">privacy policy</a> applies.</p>
+    <p>This website and server is hosted with Hetzner Cloud in Germany, the langrock.info <a href="https://langrock.info/privacy">privacy policy</a> applies.</p>
 
     <p class="text-center mt-16 mb-8 text-xs">
       Thanks to Ville Säävuori for making this great template ❤️ <br />
