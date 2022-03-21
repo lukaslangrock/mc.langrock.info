@@ -17,119 +17,177 @@
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/banner1.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.05.53.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/banner2.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.06.12.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/banner3.webp"
-      quality="100"
-    />
-
-    <h3>The spawn region</h3>
-
-    <g-image
-      class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/spawn1.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.06.22.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/spawn2.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.06.34.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/spawn3.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.06.55.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/spawn4.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.07.09.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/spawn5.webp"
-      quality="100"
-    />
-
-    <h3>Player homes</h3>
-
-    <g-image
-      class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes1.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.07.21.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes2.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.07.24.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes3.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.07.34.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes4.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.07.43.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes5.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.08.50.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes6.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.09.05.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes7.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.09.15.webp"
       quality="100"
     /><br />
 
     <g-image
       class="block"
-      alt="Screenshot of the server's spawn"
-      src="~/assets/img/homes8.webp"
+      src="~/assets/img/screenshots/2022-03-21_00.09.22.webp"
       quality="100"
-    />
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.10.09.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.10.32.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.10.53.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.11.23.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.12.30.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.13.56.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.14.37.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.14.54.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.15.13.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.15.48.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.16.31.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.17.24.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.17.29.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.19.03.webp"
+      quality="100"
+    /><br />
+
+    <g-image
+      class="block"
+      src="~/assets/img/screenshots/2022-03-21_00.21.32.webp"
+      quality="100"
+    /><br />
 
     <br />
     <p class="text-center"><g-link to="/">Return to homepage</g-link><br /></p>
